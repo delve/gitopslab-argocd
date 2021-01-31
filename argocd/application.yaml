@@ -9,7 +9,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/delve/gitopslab.git
+    repoURL: https://github.com/delve/gitopslab-argocd.git
     targetRevision: lab
     path: manifests
     directory:

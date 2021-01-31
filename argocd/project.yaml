@@ -12,7 +12,7 @@ spec:
   description: ArgoCD for ArgoCD
 
   sourceRepos:
-  - 'https://github.com/delve/gitopslab.git'
+  - 'https://github.com/delve/gitopslab-argocd.git'
 
   destinations:
   - namespace: argocd

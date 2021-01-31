@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/delve/gitopslab-argocd.git
     targetRevision: lab
-    path: manifests
+    path: argocd
     directory:
       recurse: true
 

@@ -10,7 +10,7 @@ spec:
   # Source of the application manifests
   source:
     repoURL: https://github.com/delve/gitopslab.git
-    targetRevision: add-apps
+    targetRevision: master
     path: manifests
     directory:
       recurse: true
